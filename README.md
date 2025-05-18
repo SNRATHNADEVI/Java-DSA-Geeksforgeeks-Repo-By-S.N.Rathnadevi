@@ -8,7 +8,7 @@ Built for grind, styled for greatness.
 </p>
 
 <p align="center">
-  <a href="[https://auth.geeksforgeeks.org/user/snrathnadevi]"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" /></a>
+  <a href="https://www.geeksforgeeks.org/user/snrathnadevi/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" /></a>
   <a href="https://www.linkedin.com/in/rathnadevisn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
